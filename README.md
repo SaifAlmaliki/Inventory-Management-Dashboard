@@ -1,1 +1,1 @@
-# Inventory-Management-Dashboard
+# Inventory-Management-System
